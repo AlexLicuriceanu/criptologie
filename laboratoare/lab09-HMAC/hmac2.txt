@@ -1,0 +1,1 @@
+SHA1(stdin)= 41d8beaaaf7147b6f64f4131ceac90ff4d77c8cb
